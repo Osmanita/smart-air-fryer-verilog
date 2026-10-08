@@ -1,0 +1,19 @@
+# ModelSim / Questa generated output
+work/
+transcript
+*.wlf
+*.cr.mti
+modelsim.ini
+vsim_stacktrace.vstf
+
+# Other simulation output
+*.vcd
+*.fst
+*.vvp
+
+# Editor backups and operating system files
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
